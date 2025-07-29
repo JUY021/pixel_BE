@@ -1,4 +1,4 @@
-package project.game.pixel.dto;
+package project.game.pixel.dto.request;
 
 import lombok.Data;
 

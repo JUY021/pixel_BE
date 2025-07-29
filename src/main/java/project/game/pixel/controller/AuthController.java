@@ -4,8 +4,8 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import project.game.pixel.dto.SignupRequestDto;
-import project.game.pixel.dto.LoginRequestDto;
+import project.game.pixel.dto.request.SignupRequestDto;
+import project.game.pixel.dto.request.LoginRequestDto;
 import project.game.pixel.service.UserService;
 
 @RestController
